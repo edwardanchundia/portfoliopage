@@ -1,0 +1,56 @@
+.name {
+  display: flex;
+}
+
+.info {
+  /*display: inline-block;*/
+  width: 65%;
+  order: 2;
+}
+
+.photo {
+  /*display: inline-block;*/
+  width: 35%;
+  order: 1;
+
+}
+
+.first_last_name, .occupation {
+  text-align: right;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+  margin-top: 33.5px;
+  margin-left: 0px;
+}
+
+.feature_work {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.feature_work_header {
+  width: 100%
+}
+
+.project_one {
+  order: 1;
+  width: 50%;
+}
+
+.project_two {
+  order: 2;
+  width: 50%;
+}
+
+.project_three {
+  order: 3;
+  width: 100%;
+}
+
+.project_photo {
+  width: 150px;
+  height: 150px;
+}

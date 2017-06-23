@@ -1,0 +1,36 @@
+body {
+  margin-left: 20%;
+  margin-right: 10%;
+}
+
+.main_photo {
+  height: 450px;
+}
+
+.feature_work_header {
+  text-align: left;
+}
+
+.project_one {
+  box-sizing: border-box;
+  width: 33.3%;
+  padding-right: 10px;
+}
+
+.project_two {
+  box-sizing: border-box;
+  width: 33.3%;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.project_three {
+  box-sizing: border-box;
+  width: 33.3%;
+  padding-left: 10px;
+}
+
+.project_photo {
+  margin-left: 0px;
+  width: 100%;
+}
