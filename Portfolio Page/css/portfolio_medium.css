@@ -15,7 +15,8 @@
 
 }
 
-.first_last_name, .occupation {
+.first-last-name,
+.occupation {
   text-align: right;
 }
 
@@ -26,31 +27,31 @@
   margin-left: 0px;
 }
 
-.feature_work {
+.feature-work {
   display: flex;
   flex-wrap: wrap;
 }
 
-.feature_work_header {
+.feature-work-header {
   width: 100%
 }
 
-.project_one {
+.project-one {
   order: 1;
   width: 50%;
 }
 
-.project_two {
+.project-two {
   order: 2;
   width: 50%;
 }
 
-.project_three {
+.project-three {
   order: 3;
   width: 100%;
 }
 
-.project_photo {
+.project-photo {
   width: 150px;
   height: 150px;
 }
